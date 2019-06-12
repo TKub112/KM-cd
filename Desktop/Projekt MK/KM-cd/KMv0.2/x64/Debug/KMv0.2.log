@@ -1,0 +1,10 @@
+﻿  medium_mode.cpp
+c:\users\tobiasz\desktop\sfml\gotowy\kmv0.2\kmv0.2\medium_mode.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tobiasz\desktop\sfml\gotowy\kmv0.2\kmv0.2\medium_mode.cpp(34): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>'
+          with
+          [
+              _Ty=std::string
+          ]
+c:\users\tobiasz\desktop\sfml\gotowy\kmv0.2\kmv0.2\medium_mode.cpp(20): warning C4101: 'zdarzenie': unreferenced local variable
+c:\users\tobiasz\desktop\sfml\gotowy\kmv0.2\kmv0.2\medium_mode.cpp(26): warning C4101: 'key': unreferenced local variable
+  KMv0.2.vcxproj -> C:\Users\Tobiasz\Desktop\SFML\gotowy\KMv0.2\x64\Debug\KMv0.2.exe
